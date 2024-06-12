@@ -1,6 +1,7 @@
 git branch branchname
 git checkout branchname
 git branch
+git log
 git branch -b branchname
 git merge branchname
 git branch -d branchname
@@ -8,4 +9,3 @@ git push origin branchname
 git cherry-pick filecommitid
 git commit--amend -m "newcommitmsg"
 git rebase branchname
-git log
