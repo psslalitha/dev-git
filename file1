@@ -1,0 +1,10 @@
+GIT WORK FLOW
+git init
+git clone link
+cd repo
+touch filename
+git add .
+git commit -m "msg"
+git push
+git fetch
+git pull
